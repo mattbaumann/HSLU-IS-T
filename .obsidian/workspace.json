@@ -13,15 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Managment/ISO27000.md",
+                "file": "Managment/BSI.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ISO27000"
+              }
+            }
+          },
+          {
+            "id": "bcdff7616f5e1ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Managment/BSI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "637a6c2d8380a72a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Managment/BSI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -40,11 +63,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -59,9 +79,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -69,9 +87,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/IPS.md",
+                "file": "Managment/BSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +118,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for IPS"
+              }
             }
           },
           {
@@ -113,12 +127,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/IPS.md",
+                "file": "Managment/BSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from IPS"
+              }
             }
           },
           {
@@ -128,12 +140,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -142,13 +150,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/IPS.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of IPS"
+                "file": "Managment/BSI.md"
+              }
             }
           },
           {
@@ -160,9 +163,7 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              }
             }
           },
           {
@@ -170,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           }
         ],
@@ -180,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,12 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96ab5c0c8580e011",
+  "active": "637a6c2d8380a72a",
   "lastOpenFiles": [
-    "README.md",
-    "Managment/IT-Sicherheitskriterien.md",
+    "Managment/TestGuggus.png",
+    "Managment/BSI.md",
+    "Pasted image 20250623214727.png",
     "Managment/ISO27000.md",
+    "Managment/IT-Sicherheitskriterien.md",
     "Managment/Management.md",
+    "Managment/Pasted image 20250619133324.png",
+    "README.md",
     "Managment/Testing.md",
     "Technical/Architekturen.md",
     "AAA/Passwort Hash-Funktion.md",
@@ -208,7 +211,6 @@
     "AAA/Authentifizierung.md",
     "AAA/Access Control.md",
     "Mögliche Prüfungsaufgaben.md",
-    "Managment/Pasted image 20250619133324.png",
     "Managment/Testing 2.png",
     "Managment/Testing 2.png",
     "Managment/Testing1.png",
@@ -217,8 +219,6 @@
     "AAA/ReferenceMonitor.png",
     "AAA/Pasted image 20250619105502.png",
     "AAA/RainbowTableChain.png",
-    "AAA/Pasted image 20250619103434.png",
-    "AAA/Pasted image 20250617153138.png",
     "Technical/IPS.md",
     "AAA",
     "Technical",
