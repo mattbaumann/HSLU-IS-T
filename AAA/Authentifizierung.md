@@ -48,7 +48,7 @@ Faktoren:
 - Antwort auf eine Frage
 - Einmal-Passwort
 
-Passwort muss durch einweg Funktion geschützt werden: [[Passwort Hash-Funktion]] gespeichert wird der Hash-Wert.
+Passwort muss durch einweg Funktion geschützt werden: [[Hash-Funktion]] gespeichert wird der Hash-Wert. Siehe [[Hash-Funktion]] für Cracking, RainbowTable etc
 
 ## Authentifizierung durch Haben
 
