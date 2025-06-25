@@ -8,43 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b233a2b9bc8d3923",
+            "id": "46232b1f1bd1788a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Managment/BSI.md",
+                "file": "Managment/Standards und Normen.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Standards und Normen"
             }
           },
           {
-            "id": "bcdff7616f5e1ea2",
+            "id": "ee399ec7d8dce54b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Managment/BSI.md",
+                "file": "Managment/ISO 27002 - Leitfaden ISMS.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ISO 27002 - Leitfaden ISMS"
             }
           },
           {
-            "id": "637a6c2d8380a72a",
+            "id": "ea8715065406f2c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Managment/BSI.md",
+                "file": "Managment/ISO 27005 - ISMS Risikomanagement.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ISO 27005 - ISMS Risikomanagement"
+            }
+          },
+          {
+            "id": "60f0499acee3599f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Managment/ISO 27005 - ISMS Risikomanagement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ISO 27005 - ISMS Risikomanagement"
+            }
+          },
+          {
+            "id": "8de99c4924e1c0dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Managment/ISO 27005 - ISMS Risikomanagement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ISO 27005 - ISMS Risikomanagement"
+            }
+          },
+          {
+            "id": "df159f4869fdae70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Managment/ISO 27005 - ISMS Risikomanagement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ISO 27005 - ISMS Risikomanagement"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -63,8 +111,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -73,13 +124,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Common ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Managment/BSI.md",
+                "file": "AAA/Passwort Hash-Funktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +173,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Passwort Hash-Funktion"
             }
           },
           {
@@ -127,10 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Managment/BSI.md",
+                "file": "AAA/Passwort Hash-Funktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Passwort Hash-Funktion"
             }
           },
           {
@@ -140,8 +199,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Managment/BSI.md"
-              }
+                "file": "AAA/Passwort Hash-Funktion.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Passwort Hash-Funktion"
             }
           },
           {
@@ -163,7 +231,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -171,7 +241,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -194,32 +266,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "637a6c2d8380a72a",
+  "active": "df159f4869fdae70",
   "lastOpenFiles": [
-    "Managment/TestGuggus.png",
-    "Managment/BSI.md",
+    "Managment/ISO 27006 - Anforderungen an Zertifizierungsstellen.md",
     "Pasted image 20250623214727.png",
-    "Managment/ISO27000.md",
-    "Managment/IT-Sicherheitskriterien.md",
-    "Managment/Management.md",
-    "Managment/Pasted image 20250619133324.png",
-    "README.md",
+    "BeispieleSchwachstellen.png",
+    "Managment/ISO 27005 - ISMS Risikomanagement.md",
+    "BeispieleBedrohungen.png",
+    "ISRM Prozess.png",
+    "Managment/ISO 27000.md",
+    "Managment/ISO 27001 - Anforderungen ISMS.md",
     "Managment/Testing.md",
-    "Technical/Architekturen.md",
+    "Managment/ISO 27003 - Leitfaden Einführung ISMS.md",
+    "Managment/ISO 27002 - Leitfaden ISMS.md",
+    "Managment/IT-Sicherheitskriterien.md",
+    "Managment/Standards und Normen.md",
+    "Managment/Management.md",
+    "Informationssicherheits-Framework.png",
+    "Uebersicht_ISO.png",
+    "Managment/BSI.md",
+    "AAA/Access Control.md",
     "AAA/Passwort Hash-Funktion.md",
     "AAA/Passwort Entropie.md",
+    "AAA/Authentifizierung.png",
     "AAA/Authentifizierung.md",
-    "AAA/Access Control.md",
     "Mögliche Prüfungsaufgaben.md",
-    "Managment/Testing 2.png",
-    "Managment/Testing 2.png",
-    "Managment/Testing1.png",
-    "Welcome.md",
-    "AAA/SRBAC.png",
-    "AAA/ReferenceMonitor.png",
-    "AAA/Pasted image 20250619105502.png",
-    "AAA/RainbowTableChain.png",
     "Technical/IPS.md",
+    "Technical/Architekturen.md",
+    "Managment/TestGuggus.png",
+    "Managment/Pasted image 20250619133324.png",
+    "README.md",
+    "Managment/Testing 2.png",
+    "Welcome.md",
     "AAA",
     "Technical",
     "Managment"
