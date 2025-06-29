@@ -20,19 +20,24 @@ Wettbewerbsvorteile
 
 Ein Standard ist dementsprechend einfacher zu erklären und aufzubauen als eine "Freestyle Lösung"
 
+## Vergleich ISO zu BSI
+ISO: generischer, eher best practices
+BSI: produktspezifisch, detailierter
+![[VergleichISO-BSI.png]]
 ## Informationssicherheits-Managementsysteme
 
-| Nr                           | Bezeichnung                                                                                          | Erläuterung                                                                                                               |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ISO 27001                    | Information security management<br><br>systems – Requirement                                         | Anforderungen an Informationssicherheits-Managementsysteme                                                                |
-| ISO 27002                    | Code of practice for information security managemen                                                  | Leitfaden zum Informationssicherheitsmanagement                                                                           |
-| ISO 27003                    | Information security management system implementation guidance                                       | Leitfaden zur Einführung eines Informationssicherheits-Management-systems                                                 |
-| ISO 27004                    | Information security management – Measurement                                                        | Leitfaden zum Messsystem für Informationssicherheits-Managementsysteme                                                    |
-| ISO 27006                    | Requirements for bodies providing audit and certification of information security management systems | Anforderungen an Stellen, die Auditierung und Zertifizierung von Informationssicherheits-Managementsystemen bereitstellen |
-| ISO 27011 (Sektorspezifisch) | Information security management guidelines for telecommunications                                    | Informationssicherheitsmanagement-Leitlinien für die Telekommunikation                                                    |
-| IT-Grundschutz               | BSI IT-Grundschutz-Kataloge                                                                          | IT-Grundschutz als Basis für Informationssicherheit                                                                       |
-| ISF                          | The Standard of Good Practice for Information Security                                               | Deckt 6 Aspekte (Umgebungen) der Informationssicherheit ab                                                                |
-| PCI DSS (Sektorspezifisch)   | Payment Card Industry Data Security Standard                                                         | Standard für Unternehmungen, welche Kreditkarten-Transaktionen bearbeiten                                                 |
+| Nr                           | Bezeichnung                                                                                           | Erläuterung                                                                                                               |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ISO 27000:2018               | Information security management systems – Requirement                                                 | Anforderungen an Informationssicherheits-Managementsysteme                                                                |
+| ISO 27001:2022               | Information security management systems – Requirement                                                 | Anforderungen an Informationssicherheits-Managementsysteme                                                                |
+| ISO 27002:2022               | Tom: Code of practice for information security managemen<br><br>Armand: Information Security Controls | Leitfaden zum Informationssicherheitsmanagement                                                                           |
+| ISO 27003:2017               | Information security management system implementation guidance                                        | Leitfaden zur Einführung eines Informationssicherheits-Management-systems                                                 |
+| ISO 27004:2016               | Information security management – Monitoring, Measurement, analysis and evaluation                    | Leitfaden zum Messsystem für Informationssicherheits-Managementsysteme                                                    |
+| ISO 27006                    | Requirements for bodies providing audit and certification of information security management systems  | Anforderungen an Stellen, die Auditierung und Zertifizierung von Informationssicherheits-Managementsystemen bereitstellen |
+| ISO 27011 (Sektorspezifisch) | Information security management guidelines for telecommunications                                     | Informationssicherheitsmanagement-Leitlinien für die Telekommunikation                                                    |
+| IT-Grundschutz               | BSI IT-Grundschutz-Kataloge                                                                           | IT-Grundschutz als Basis für Informationssicherheit                                                                       |
+| ISF                          | The Standard of Good Practice for Information Security                                                | Deckt 6 Aspekte (Umgebungen) der Informationssicherheit ab                                                                |
+| PCI DSS (Sektorspezifisch)   | Payment Card Industry Data Security Standard                                                          | Standard für Unternehmungen, welche Kreditkarten-Transaktionen bearbeiten                                                 |
 27004 eher akademisch, mathematisch hergeleitet wie Wirksamkeit der Massnahmen gemessen wird – wird eher selten gesehen
 ## Sicherheitsmassnahmen und Monitoring
 
@@ -47,9 +52,9 @@ Ein Standard ist dementsprechend einfacher zu erklären und aufzubauen als eine 
 
 ## Risikomanagement
 
-| Nr        | Bezeichnung                         | Erläuterung                              |
-| --------- | ----------------------------------- | ---------------------------------------- |
-| ISO 27005 | Information security risk managemen | Informationssicherheits-Risikomanagement |
+| Nr             | Bezeichnung                         | Erläuterung                              |
+| -------------- | ----------------------------------- | ---------------------------------------- |
+| ISO 27005:2022 | Information security risk managemen | Informationssicherheits-Risikomanagement |
 ## Standards mit IT-Sicherheitsaspekten
 
 | Nr    | Bezeichnung                                               | Erläuterung                                               |
