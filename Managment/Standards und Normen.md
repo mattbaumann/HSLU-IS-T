@@ -78,3 +78,23 @@ Eigenschaften
 * Reichweite: Inhalt, Geltung
 * Verbindlichkeit
 * Verhaltensgrundlagen / Positionierung
+
+## Frameworks
+**Definition Framework**
+Unter einem Framework versteht man eine definierte Struktur, die eine mehrfache Verwendung findet. Sie dient als initiale Grundstruktur, welche nach der Einführung weiter genutzt und ausgebaut werden kann. Das Framework besteht aus einer Anzahl von Dokumenten, die Richtlinien, Prozesse und Verfahren des Unternehmens klar beschreiben und definieren.
+
+**Zweck Framework**
+Ein richtig umgesetztes Cyber Security Framework ermöglicht es den Verantwortlichen (z.B. Management, CISO), das Cyberrisiko des Unternehmens effektiver, ressourcenschonender und nachhaltiger zu managen.
+
+Es illustriert allen Stakeholdern, wie Informationen, Systeme und Dienste verwaltet und bearbeitet werden.
+
+**Grundsätze**
+Es ist ein Framework, kein normativer Standard (freiwillig):
+* Es bietet eine einheitliche Sprache sowie eine systematische Methodik zum Management von Cyberrisiken.
+* Es gibt dem Unternehmen nicht vor, wie viel Risiko tolerierbar ist, und es behauptet auch nicht, «die einzig wahre Formel» für Cybersicherheit zu liefern.
+* Es ist eine Sammlung von Massnahmen die es ermöglicht, für sehr unterschiedliche Interessensgruppen die besten Praktiken von Unternehmen mit hoher Maturität zu Standardpraktiken für Alle zu machen.
+
+Das Framework ist ein dynamisches Dokument:
+* Es soll in regelmässigen Abständen aktualisiert werden, da die Beteiligten aus der Anwendung und Umsetzung des Frameworks lernen (Maturity Level), und sich Technologien und Risiken laufend ändern.
+* Das ist ein Grund, warum sich das Framework auf Fragen konzentriert, die sich eine Organisation selber stellen muss, um ihr Risiko zu managen.
+* Methoden, Technologien und Standards werden sich im Laufe der Zeit verändern, die Grundprinzipien jedoch werden gleich bleiben.
