@@ -121,7 +121,7 @@ Mittelbare Täter: Täter benutzt jemand anderen als „Tatwerkzeug“
 
 ![[Mittaeterschaft.png]]
 
-## IT
+## IT Vorsatz - Art.144 Datenbeschädigung
 
 - **Vorsatz:** (Art 144): Täter löschte Datenbankdatei.
 - **Eventualvorsatz** (Art 144): Täter setzte eine Startup-Routine welche die Datenbankdatei löschte beim Start des Systems wieder besseren wissens. Die Startup-Routine konnte gefunden werden.
