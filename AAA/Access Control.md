@@ -66,11 +66,12 @@ Entscheidungsbaum:
 2. Für Read-Access: Das Subjekt muss das Objekt dominieren:
 	1. Klassifikation Subjekt >= Klassifikation Objekt
 	2. Kategorien des Objekts $\subseteq$ Kategorien des Subjekts
-3. Für Write-Access: Das Objekt muss das Subjekt dominiern:
+3. Für Write-Access: Das Objekt muss das Subjekt dominieren:
 	1. Klassifikation Subjekt <= Klassifikation Objekt
 	2. Kategorien des Subjekts $\subseteq$ Kategorien des Objekts
 
 !! Leere Menge $\emptyset$ ist auch eine Teilmenge !! 
+Bei gleichem Label von Subjekt und Objekt, dann darf gelesen und geschrieben werden.
 
 
 Abstraktes Model, kann mit Problemen verbunden sein, Blindes schreiben kann zu Integritätsproblemen führen
