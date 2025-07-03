@@ -12,11 +12,12 @@ Grundsätze:
 * **StGB 321** Antragsdelikt - Staatsanwaltschaft ermittelt nur bei offizieller Beschwerde
 
 
-| Delikte               |          |                           |
-| --------------------- | -------- | ------------------------- |
-| Gemeine Delikte       | -        | Wer einen Menschen tötet… |
-| Echte Sonderdelikte   | StGB 312 |                           |
-| Unechte Sonderdelikte | StGB 138 |                           |
+| Delikte               |          |                                                          |
+| --------------------- | -------- | -------------------------------------------------------- |
+| Gemeine Delikte       | -        | Kann jeder von uns machen ohne spezielle Voraussetzungen |
+| **Sonderdelikte**     |          | Sonderdelikte verlangen Tätereigenschaft                 |
+| Echte Sonderdelikte   | StGB 312 | Ich muss Beamter sein, passiert nicht so                 |
+| Unechte Sonderdelikte | StGB 138 | Veruntreuung, mir kann man sofort etwas verantrauen      |
 
 | Härte | Strafarten              |                                                            |
 | ----- | ----------------------- | ---------------------------------------------------------- |
@@ -57,7 +58,7 @@ Tatbestand:
 
 
 
-Vorsatz – Fahrlässigkeit = subjektiver Tatbestand
+**Vorsatz – Fahrlässigkeit = subjektiver Tatbestand**
 
 | Täterwille - StGB 12   | Wissen              | Wollen                   |
 | ---------------------- | ------------------- | ------------------------ |
@@ -66,7 +67,7 @@ Vorsatz – Fahrlässigkeit = subjektiver Tatbestand
 | Grobe Fahrlässigkeit   | Für möglich halten  | Vertrauen auf Ausbleiben |
 | Leichte Fahrlässigkeit | Nicht vorausgesehen | Nicht gewollt            |
 
-Täterwille - StGB 12:
+**Täterwille - StGB 12:**
 Vorsatz: Täter hat Geschehen beherrscht
 Fahrlässigkeit: Täter hätte Geschehen beherrschen können
 
@@ -86,7 +87,7 @@ Fahrlässigkeit: Täter hätte Geschehen beherrschen können
 > [!NOTE] Unbewusste Fahrlässigkeit (= leichte Fahrlässigkeit)
 > "21. Juli 2015" Campingplatz La Piodella in Muzzano bei Lugano 6-jähriges Mädchen während 3.5 Stunden bei 33 Grad Aussentemperatur im Auto zurückgelassen.
 
-### Rechtswiedrigkeit
+### Rechtswidrigkeit
 Verstoss gegen Rechtsordnung ohne Rechtfertigungsgründe Rechtfertigungsgründe: 
 - Notwehr 
 - Selbsthilfe 
@@ -119,3 +120,10 @@ Entschluss **vor** Vollendung der Tat
 Mittelbare Täter: Täter benutzt jemand anderen als „Tatwerkzeug“
 
 ![[Mittaeterschaft.png]]
+
+## IT
+
+- **Vorsatz:** (Art 144): Täter löschte Datenbankdatei.
+- **Eventualvorsatz** (Art 144): Täter setzte eine Startup-Routine welche die Datenbankdatei löschte beim Start des Systems wieder besseren wissens. Die Startup-Routine konnte gefunden werden.
+- **Grobe Fahrlässigkeit** (Art 144): Das DB-Team wurde angewiesen das DBMS zu warten, kein Backup wurde erstellt, die Daten waren nicht mehr rekonstruierbar.
+- **Leichte Fahrlässigkeit** (Art 144): Das DB-Team machte Backups nach der Firmenpolicy. Leider wurde während dem Backup die Hardware defekt. Sowohl das Backup als auch die Datenbankdatei waren nicht mehr rekonstruierbar.
